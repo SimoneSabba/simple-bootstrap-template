@@ -1,0 +1,44 @@
+body {
+  padding-top: 5px;
+}
+.navbar-default.my-nav-bar {
+  background: #428bca;
+  margin-bottom: 0px;
+}
+.navbar-default.my-nav-bar .navbar-brand {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+.navbar-default.my-nav-bar .navbar-brand img {
+  padding: 7px 14px;
+  width: 53px;
+}
+.menu {
+  border-bottom: 1px solid #428bca;
+}
+.menu i {
+  margin-right: 10px;
+}
+.social-bar {
+  margin-top: 9px;
+}
+.social-bar a {
+  padding-right: 7px;
+}
+.social-bar img {
+  width: 32px;
+}
+.footer {
+  width: 100%;
+  height: 60px;
+  background: #428bca;
+  border-radius: 4px;
+}
+.footer .social-footer {
+  text-align: center;
+  padding-top: 14px;
+}
+.footer .social-footer img {
+  width: 32px;
+}
